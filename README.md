@@ -18,7 +18,9 @@ Once the data is connected, clean and transform it as needed to ensure it is in 
 ## Creating dashboard
 Use the Power BI visualizations to create the bike sales dashboard. Dashboard is generated so that even a layman can understand what are we trying to explain. For doing this we need to represent the complex information into a simpler form by preparing the data. This could include charts, tables, and maps that show key metrics such as total units sold, revenue generated, and top-selling models.
 
-![bikesales](https://user-images.githubusercontent.com/79984668/212314152-46bb1550-26c0-409e-8f58-6883b2882b25.PNG)
+
+
+![bikesales](https://user-images.githubusercontent.com/79984668/212367932-1fe1de69-f248-41f8-b645-ea3b0ede716a.PNG)
 
 
 ## Customizing Visuals
