@@ -4,9 +4,7 @@ The goal of this project is to help retailers and manufacturers make data driven
 ## Gathering data
 Collect sales data for bikes, including information such as the number of units sold, revenue generated, and top-selling models. This data can come from a variety of sources, such as sales reports, customer data, and inventory management systems.
 
-[Rawdata-Bike Sales.xlsx](https://github.com/rishikeshhh/portfolio-project-1/files/10411170/Rawdata-Bike.Sales.xlsx)
-
-
+![rawdata-bikesales](https://user-images.githubusercontent.com/79984668/212315568-c9d6fdf4-7c08-4b21-a2fb-22ae1e4d7622.PNG)
 
 ## Connecting to Power BI 
 Open Power BI and connect to the data sources where the bike sales data is stored. This could include Excel spreadsheets, databases, or cloud-based data storage systems.
@@ -14,7 +12,8 @@ Open Power BI and connect to the data sources where the bike sales data is store
 ## Preparing the data
 Once the data is connected, clean and transform it as needed to ensure it is in the correct format for creating a dashboard. This may involve removing duplicates, merging data from multiple sources, or calculating new fields.
 
-[Excel Project Dataset-Bike Sales.xlsx](https://github.com/rishikeshhh/portfolio-project-1/files/10411182/Excel.Project.Dataset-Bike.Sales.xlsx)
+![cleanedbikesales1](https://user-images.githubusercontent.com/79984668/212315631-7a776353-010b-4dc9-ab7a-852947424ef0.PNG)
+
 
 ## Creating dashboard
 Use the Power BI visualizations to create the bike sales dashboard. Dashboard is generated so that even a layman can understand what are we trying to explain. For doing this we need to represent the complex information into a simpler form by preparing the data. This could include charts, tables, and maps that show key metrics such as total units sold, revenue generated, and top-selling models.
